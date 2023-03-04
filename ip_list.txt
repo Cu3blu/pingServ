@@ -1,0 +1,4 @@
+google.com
+ya.ru
+127.0.0.2
+hadra.cc #Нерабочий
